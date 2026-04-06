@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\backends\imgui_impl_dx11.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\backends\imgui_impl_dx9.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\imgui_demo.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\imgui_draw.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\imgui_tables.cpp" />
+    <ClCompile Include="..\vendor\imgui-master\imgui-master\imgui_widgets.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="GMLHOOK.cpp" />
+    <ClCompile Include="SDK\Basic.cpp" />
+    <ClCompile Include="SDK\CoreUObject_functions.cpp" />
+    <ClCompile Include="SDK\Engine_functions.cpp" />
+    <ClCompile Include="SDK\FortniteGame_functions.cpp" />
+    <ClCompile Include="PlayerController.cpp" />
+    <ClCompile Include="Inventory.cpp" />
+    <ClCompile Include="ProcessEventHooked.cpp" />
+    <ClCompile Include="GameHooks.cpp" />
+    <ClCompile Include="Building.cpp" />
+    <ClCompile Include="SDK\FortniteEntry_functions.cpp" />
+    <ClCompile Include="SDK\HuskPawn_functions.cpp" />
+    <ClCompile Include="Husk.cpp" />
+    <ClCompile Include="SDK\AIModule_functions.cpp" />
+    <ClCompile Include="..\..\..\AeraOTClient\AeraOTClient\SDK\GameplayAbilities_functions.cpp" />
+    <ClCompile Include="Storm.cpp" />
+    <ClCompile Include="Match.cpp" />
+    <ClCompile Include="ConnectSpawner.cpp" />
+    <ClCompile Include="SDK\FlingerPawn_functions.cpp" />
+    <ClCompile Include="Bot.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="GMLHOOK.h" />
+    <ClInclude Include="Window.h" />
+    <ClInclude Include="PlayerController.h" />
+    <ClInclude Include="Inventory.h" />
+    <ClInclude Include="ProcessEventHooked.h" />
+    <ClInclude Include="GameHooks.h" />
+    <ClInclude Include="Building.h" />
+    <ClInclude Include="Utils.h" />
+    <ClInclude Include="Husk.h" />
+    <ClInclude Include="Storm.h" />
+    <ClInclude Include="Match.h" />
+    <ClInclude Include="ConnectSpawner.h" />
+    <ClInclude Include="Bot.h" />
+  </ItemGroup>
+</Project>

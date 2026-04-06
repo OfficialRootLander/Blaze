@@ -1,0 +1,78 @@
+﻿  Bot.cpp
+  ProcessEventHooked.cpp
+  dllmain.cpp
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\SDK\Basic.hpp(725,2): warning C4369: 'SDK::EObjectFlags':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'ProcessEventHooked.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\SDK\Basic.hpp(725,2): warning C4369: 'SDK::EObjectFlags':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\SDK\Basic.hpp(725,2): warning C4369: 'SDK::EObjectFlags':  enumerator value '2147483648' cannot be represented as 'int', value is '2147483648'
+  (compiling source file 'Bot.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bot.cpp')
+      C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(230,26):
+          see reference to function template instantiation 'ActorType *FortUtils::SpawnActor<SDK::AFortPawn>(SDK::UClass *,SDK::FVector,SDK::FRotator,SDK::FVector)' being compiled
+          with
+          [
+              ActorType=SDK::AFortPawn
+          ]
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(214,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bot.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(215,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bot.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(216,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bot.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(230,26):
+          see reference to function template instantiation 'ActorType *FortUtils::SpawnActor<SDK::AFortPawn>(SDK::UClass *,SDK::FVector,SDK::FRotator,SDK::FVector)' being compiled
+          with
+          [
+              ActorType=SDK::AFortPawn
+          ]
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(214,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(215,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(216,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProcessEventHooked.cpp')
+      C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(213,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(230,26):
+          see reference to function template instantiation 'ActorType *FortUtils::SpawnActor<SDK::AFortPawn>(SDK::UClass *,SDK::FVector,SDK::FRotator,SDK::FVector)' being compiled
+          with
+          [
+              ActorType=SDK::AFortPawn
+          ]
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(214,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProcessEventHooked.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(215,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProcessEventHooked.cpp')
+  
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Utils.h(216,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProcessEventHooked.cpp')
+  
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\PlayerController.cpp(50): warning C4715: 'PlayerControllerAera::GetLocalPlayerController': not all control paths return a value
+  All 2831 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AeraOTClient.vcxproj -> C:\Users\Gebruiker\source\repos\AeraOTClient\AeraOTClient\Release\AeraOTClient.dll

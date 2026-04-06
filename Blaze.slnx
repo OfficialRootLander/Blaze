@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Blaze/Blaze.vcxproj" Id="d409760f-acfa-46b8-9b42-fc49b3f7b0a2" />
-</Solution>
